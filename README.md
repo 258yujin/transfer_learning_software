@@ -1,5 +1,5 @@
 # transfer_learning_software
-This is the software developed based on this paper：
+This is the software developed for this paper：
 
 
 Deep Transfer Learning for Ni-Based Superalloys Microstructure Recognition on γ' Phase
